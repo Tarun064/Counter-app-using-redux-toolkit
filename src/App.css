@@ -1,0 +1,11 @@
+.value{
+  font-weight: 600;
+}
+
+.control-row{
+  margin-top: 10px;
+}
+
+.number-field{
+  width: 110px;
+}
